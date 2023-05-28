@@ -1,2 +1,2 @@
-# calculator
-My first project using javascript i am so excited
+# Music player
+My first project using html css i am so excited
